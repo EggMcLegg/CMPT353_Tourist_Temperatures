@@ -17,3 +17,6 @@ To run this program correctly, first run "pyspark", then "spark-submit process_d
 process_data.py will create the processed_data folder, complete with the city-coords, city_counts.csv, ghcnd-countries.csv, and ghcnd-stations.csv. 
 
 analysis.py will create the output file.
+
+****************************************
+This project was completed on August 4th, 2023 for CMPT353 - Computational Data Science at Simon Fraser University. 
